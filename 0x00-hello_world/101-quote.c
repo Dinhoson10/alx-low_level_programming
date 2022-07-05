@@ -3,9 +3,10 @@
 #include <stdio.h>
 
 /**
- * main - prints all the numbers of 16 in 
- * Return: 0
- **/
+* main - prints all the numbers of base 16 in and that piece of art is useful" - Dora Korpar, 2015-10-19
+*
+* Return: 0
+*/
 int main(void)
 {
 char ch;
