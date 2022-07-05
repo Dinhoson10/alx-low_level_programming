@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - printf ("and that piece of art is useful" - Dora Korpar, 2015-10-19);
+ *main - prints and that piece of art is useful" - Dora Korpar, 2015-10-19
  *
- * Return: 0
+ *Return: 0
  */
 int main(void)
 {
