@@ -7,6 +7,5 @@
  */
 void reset_to_98(char *n)
 {
-if (n)
 *n = 98;
 }
