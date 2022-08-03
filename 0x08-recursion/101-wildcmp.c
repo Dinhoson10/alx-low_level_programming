@@ -39,3 +39,4 @@ else if (*s2 == '*')
 return (substring_match(s1, (s2 + 1), (s2 + 1)));
 else
 return (0);
+}
